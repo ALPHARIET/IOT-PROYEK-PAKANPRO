@@ -15,7 +15,10 @@
       "id": "dht1",
       "top": -40,
       "left": 190,
-      "attrs": {}
+      "attrs": {
+        "temperature": "35",
+        "humidity": "40"
+      }
     },
     {
       "type": "wokwi-led",
