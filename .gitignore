@@ -1,5 +1,10 @@
 .pio/
+.platformio/
+build/
+/.vscode/
 **/.vscode/.browse*
 __pycache__/
 *.pyc
 .env
+
+
